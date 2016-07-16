@@ -1,7 +1,7 @@
-title:            Scribble
-description:      A jekyll theme. Because I scribble.
+title:            Magic Key
+description:      A jekyll theme. Because I Magic Key.
 url:              # Site url, without a slash at the end.
-signoff:          # Your name.
+signoff:          # heather-sun.
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
@@ -10,10 +10,10 @@ links:
   - name:         About
     url:          /about
   - name:         Blog
-    url:          http://muan.co
+    url:          https://heather-sun.github.io
     external:     true
   - name:         GitHub
-    url:          http://github.com/muan
+    url:          https://github.com/heather-sun
     external:     true
 highlighter:      pygments
 permalink:        pretty
