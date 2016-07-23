@@ -3,8 +3,9 @@ layout: page
 title: About
 ---
 
-Give people something to read and get to know you. Here's my attempt: this is [Mu-An](http://muan.co), a designer developer who lives in London at the moment.
+This is [heather-sun](https://heather-sun.github.io), a collector who gather up these magic keys.    
+ 
+I feel like our lives changed because they had to, and that the real magic key was witness to all of this, and in somehow holding us together.   
+    
 
-Tweet at [@muanchiou](http://twitter.com/muanchiou), read my code on [GitHub](http://github.com/muan), see my designs on [Dribbble](http://dribbble.com/muan), find my CV on [LinkedIn](http://uk.linkedin.com/in/muanchiou).
-
-This theme is made by me. You have a nice day. ♥
+These magic keys can open the door of self-awareness. It also serves the purpose of helping people with similar issues as I had. I wish these magic keys witness my growth, and help many others to make progress with me.
